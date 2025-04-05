@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "38b7",
+      "name": "aditi",
+      "email": "aditi@tcs.com",
+      "img": "https://images.pexels.com/photos/3861961/pexels-photo-3861961.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "a371",
+      "name": "Priya",
+      "email": "priya@b2.com",
+      "img": "https://images.pexels.com/photos/933255/pexels-photo-933255.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "7aea",
+      "name": "Sweety",
+      "email": "sweety@b2.com",
+      "img": "https://images.pexels.com/photos/4066041/pexels-photo-4066041.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "1b95",
+      "name": "Sarita",
+      "email": "sarita@b2.com",
+      "img": "https://images.pexels.com/photos/1546329/pexels-photo-1546329.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "02ed",
+      "name": "Divya",
+      "email": "diviya@b2.com",
+      "img": "https://images.pexels.com/photos/3277806/pexels-photo-3277806.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "612d",
+      "name": "Bittu",
+      "email": "bittu@b2.com",
+      "img": "https://images.pexels.com/photos/927451/pexels-photo-927451.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
